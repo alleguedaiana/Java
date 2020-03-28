@@ -2,7 +2,7 @@ package ejercicios;
 
 import javax.swing.JOptionPane;
 
-public class BucleI {
+public class BuclesI {
 
 	public static void main(String[] args) {
 		String contraseña="1234";
